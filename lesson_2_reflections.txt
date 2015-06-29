@@ -2,3 +2,11 @@ What happens when you initialize a repository? Why do you need to do it?
 
     need to inform git to start tracking the repository
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	working directory contails all files, repository contains all committed files
+	staging area contains a subset of all files to be added to the repossitory in a commit. It adds flexibility.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    add only files included in logical change and commit.
