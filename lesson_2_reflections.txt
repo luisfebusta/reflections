@@ -10,3 +10,8 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
     add only files included in logical change and commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	branches help when you want to explore new features that may or may not be integrated into the final product
+
