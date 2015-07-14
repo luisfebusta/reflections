@@ -15,3 +15,14 @@ What are some situations when branches would be helpful in keeping your history 
 
 	branches help when you want to explore new features that may or may not be integrated into the final product
 
+How do the diagrams help you visualize the branch structure?
+
+	see where you are in the code
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	duhh
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	git merges automatically when it doesn't detect conflicts, which means less work for us.  We only need to merge manually when necessary
